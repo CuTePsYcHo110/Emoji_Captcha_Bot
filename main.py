@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @CuTePsYcHo_110
 
 import random
 import aiohttp
@@ -20,7 +20,7 @@ CaptchaDB = {}
 
 @CaptchaBot.on_message(filters.command("start"))
 async def start_handler(_, event: Message):
-    await event.reply_text("Hi, I am captcha bot by @AbirHasan2005.")
+    await event.reply_text("Hi, I am captcha bot by @CuTePsYcHo_110.")
 
 
 @CaptchaBot.on_chat_member_updated()
