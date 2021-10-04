@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @CuTePsYcHo110
 
 import os
 
